@@ -29,3 +29,15 @@
     .imagem06 img.imagem601, img.imagem602, img.imagem603, img.imagem604, img.imagem605, img.imagem606, img.imagem607, img.imagem608, img.imagem609{margin-top: 300px;}
 
 }
+@media screen and (max-width: 500px) {
+    .imagem601, .imagem602, .imagem603, .imagem604,.imagem605, .imagem606, .imagem607, .imagem608, .imagem609{height: 7%; padding-left: 0%;}
+    .imagem06 {height: 600px;}
+    .imagem06 img.imagem601, img.imagem602, img.imagem603, img.imagem604, img.imagem605, img.imagem606, img.imagem607, img.imagem608, img.imagem609{margin-top: 300px;}
+
+}
+@media screen and (max-width: 340px) {
+    .imagem601, .imagem602, .imagem603, .imagem604,.imagem605, .imagem606, .imagem607, .imagem608, .imagem609{height: 5%; width: 9%;}
+    .imagem06 {height: 500px;}
+    .imagem06 img.imagem601, img.imagem602, img.imagem603, img.imagem604, img.imagem605, img.imagem606, img.imagem607, img.imagem608, img.imagem609{margin-top: 250px;}
+    .imagem601{margin-left: 0.5%;}
+}
